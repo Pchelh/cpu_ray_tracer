@@ -1,0 +1,67 @@
+﻿  Source.cpp
+C:\программа\tracing\tracing\Source.cpp(77,115): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(88,29): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(125,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\программа\tracing\tracing\Source.cpp(126,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\программа\tracing\tracing\Source.cpp(127,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\программа\tracing\tracing\Source.cpp(147,51): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(147,73): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(148,51): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(148,73): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(149,51): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(149,73): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(150,52): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(163,48): warning C4305: аргумент: усечение из "double" в "const float"
+C:\программа\tracing\tracing\Source.cpp(164,47): warning C4305: аргумент: усечение из "double" в "const float"
+C:\программа\tracing\tracing\Source.cpp(165,47): warning C4305: аргумент: усечение из "double" в "const float"
+C:\программа\tracing\tracing\geometry.h(68,44): warning C4244: =: преобразование "U" в "T", возможна потеря данных
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\программа\tracing\tracing\Source.cpp(93): message : выполняется компиляция ссылки на экземпляр шаблон функции "vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)"
+          with
+          [
+              U=double
+          ]
+  tracing.vcxproj -> C:\программа\tracing\Debug\tracing.exe
